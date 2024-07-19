@@ -14,6 +14,9 @@
   <img src="https://komarev.com/ghpvc/?username=ashwinikumar2003&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
+<h2 align="center">🚀 About Me</h2>
+
+#### I am a Undergrad Student 🧑🏻‍🎓 and I love Coding 🧑🏻‍💻.
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinikumar2003&show_icons=true&theme=radical)
