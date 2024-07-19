@@ -42,6 +42,7 @@
       </td>
     </tr>
   </table>
+  <h3 align="center">Profile Details</h3>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwinikumar2003&theme=vue&hide_border=true">
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
