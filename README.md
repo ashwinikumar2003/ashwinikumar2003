@@ -16,7 +16,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-#### I am a Undergrad Student 🧑🏻‍🎓 and I love Coding 🧑🏻‍💻.
+<h3 align="center">I am a Undergrad Student 🧑🏻‍🎓 and I love Coding 🧑🏻‍💻.</h3>
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinikumar2003&show_icons=true&theme=radical)
