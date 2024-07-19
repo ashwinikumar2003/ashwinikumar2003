@@ -16,7 +16,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<h3 align="center">I am an Undergrad Student 👨🏻‍🎓 and I love Coding 🧑🏻‍💻</h3><br>
+<h3 align="center" bgcolor="">I am an Undergrad Student 👨🏻‍🎓 and I love Coding 🧑🏻‍💻</h3><br>
 
 <h3 align="center">Git Stats</h3>
 
@@ -46,5 +46,5 @@
 </div>
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/Ashwini_Kumar03?border=0&radius=20&theme=moltack"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/Ashwini_Kumar03?border=0&radius=20&theme=gruvbox_light"/>
 </p>
