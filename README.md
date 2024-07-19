@@ -16,13 +16,13 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<h3 align="center">I am an Undergrad Student 🧑🏻‍🎓 and I love Coding 🧑🏻‍💻</h3>
+<h3 align="center">I am an Undergrad Student 👨🏻‍🎓 and I love Coding 🧑🏻‍💻</h3><br>
 
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=ashwinikumar2003&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ashwinikumar2003&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinikumar2003&custom_title=Ashwini's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
