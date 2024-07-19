@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ashwinikumar2003">
-    <img src="https://cameronmcefee.com/img/work/the-octocat/ironcat.jpg" alt="Ironcat" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50; box-shadow: 0 0 20px #4CAF50;">
+    <img src="https://cameronmcefee.com/img/work/the-octocat/ironcat.jpg" alt="Ironcat" width="200" height="200" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 0 20px #4CAF50;">
   </a>
 </div>
 
