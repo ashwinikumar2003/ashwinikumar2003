@@ -16,7 +16,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<h3 align="center" bgcolor="">I am an Undergrad Student 👨🏻‍🎓 and I love Coding 🧑🏻‍💻</h3><br>
+<h3 align="center" bgcolor="#F5E1C04">I am an Undergrad Student 👨🏻‍🎓 and I love Coding 🧑🏻‍💻</h3><br>
 
 <h3 align="center">Git Stats</h3>
 
