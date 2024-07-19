@@ -37,7 +37,7 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashwinikumar2003&theme=gruvbox_light&hide_border=true" alt="Repos Per Language">
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashwinikumar2003&theme=gruvbox_light&hide_border=true" alt="Most Commit Language">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashwinikumar2003&theme=radical&hide_border=true" alt="Most Commit Language">
       </td>
     </tr>
   </table>
