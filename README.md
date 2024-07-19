@@ -42,3 +42,6 @@
     </tr>
   </table>
 </div>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwinikumar2003&theme=moltack&hide_border=true">
+
