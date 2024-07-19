@@ -29,9 +29,20 @@
 </div>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinikumar2003&hide=html&hide_border=true&layout=compact&langs_count=8&theme=solarized-light" alt="Top Languages"><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwinikumar2003&theme=moltack&hide_border=true">
-</div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinikumar2003&hide=html&hide_border=true&layout=compact&langs_count=8&theme=default" alt="Top Languages">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashwinikumar2003&theme=default&hide_border=true" alt="Repos Per Language">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashwinikumar2003&theme=default&hide_border=true" alt="Most Commit Language">
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwinikumar2003&theme=vue&hide_border=true">
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/Ashwini_Kumar03?border=0&radius=20&theme=gruvbox_light"/>
