@@ -46,5 +46,5 @@
 </div>
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/Ashwini_Kumar03?border=0&radius=20"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/Ashwini_Kumar03?border=0&radius=20&theme=moltack"/>
 </p>
