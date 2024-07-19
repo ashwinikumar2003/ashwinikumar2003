@@ -16,14 +16,14 @@
 
 <h2 align="center">🚀 About Me</h2>
 <div background="#F5E1C0">
-  <h3 align="center" bgcolor="#F5E1C0">I am an Undergrad Student 👨🏻‍🎓 and I love Coding 🧑🏻‍💻</h3>
+  <h3 align="center">I am an Undergrad Student 👨🏻‍🎓 and I love Coding 🧑🏻‍💻</h3>
 </div>
 <br>
 
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ashwinikumar2003&theme=solarized-light&hide_border=true" alt="GitHub Streak" /><br>
+  <img src="https://streak-stats.demolab.com/?user=ashwinikumar2003&theme=gruvbox_light&hide_border=true" alt="GitHub Streak" /><br>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinikumar2003&custom_title=Ashwini's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=F5E1C0&color=86092C&line=86092C&point=000000&area_color=F5E1C0&title_color=86092C&area=true" alt="GitHub Activity Graph" />
 </div>
@@ -35,14 +35,14 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinikumar2003&hide=html&hide_border=true&layout=compact&langs_count=8&theme=moltack" alt="Top Languages">
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashwinikumar2003&theme=moltack&hide_border=true" alt="Repos Per Language">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashwinikumar2003&theme=flag-india&hide_border=true" alt="Repos Per Language">
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashwinikumar2003&theme=moltack&hide_border=true" alt="Most Commit Language">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashwinikumar2003&theme=flag-india&hide_border=true" alt="Most Commit Language">
       </td>
     </tr>
   </table>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwinikumar2003&theme=moltack&hide_border=true">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwinikumar2003&theme=flag-india&hide_border=true">
 
 </div>
 <h3 align="center">Leetcode Stats</h3>
