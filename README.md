@@ -23,8 +23,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ashwinikumar2003&theme=moltack&hide_border=true" alt="GitHub Streak" /><br>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinikumar2003&custom_title=Ashwini's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=#F5E1C04&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinikumar2003&custom_title=Ashwini's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&theme=moltack&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinikumar2003&custom_title=Ashwini's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=F5E1C04&color=86092C&line=86092C&point=1E90FF&area_color=F5E1C04&title_color=86092C&area=true" alt="GitHub Activity Graph" />
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinikumar2003&custom_title=Ashwini's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&theme=moltack&area=true" alt="GitHub Activity Graph" /> -->
   <br>
 </div>
 
