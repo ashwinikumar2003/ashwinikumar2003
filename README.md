@@ -1,6 +1,11 @@
-# Hi there, I'm Ashwini Kumar 👋
+<div align="center">
+  <a href="https://github.com/ashwinikumar2003">
+    <img src="https://cameronmcefee.com/img/work/the-octocat/ironcat.jpg" alt="Ironcat" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50; box-shadow: 0 0 20px #4CAF50;">
+  </a>
+</div>
 
-Welcome to my GitHub profile! I'm a Student who loves Coding.
+<h1 align="center">👋 Hello, I'm Ashwini Kumar</h1>
+
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinikumar2003&show_icons=true&theme=radical)
@@ -8,6 +13,3 @@ Welcome to my GitHub profile! I'm a Student who loves Coding.
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinikumar2003&layout=compact&theme=radical)
 
-
-## Visuals
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
