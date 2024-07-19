@@ -35,14 +35,14 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinikumar2003&hide=html&hide_border=true&layout=compact&langs_count=8&theme=moltack" alt="Top Languages">
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashwinikumar2003&theme=flag-india&hide_border=true" alt="Repos Per Language">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashwinikumar2003&theme=moltack&hide_border=true" alt="Repos Per Language">
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashwinikumar2003&theme=flag-india&hide_border=true" alt="Most Commit Language">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashwinikumar2003&theme=moltack&hide_border=true" alt="Most Commit Language">
       </td>
     </tr>
   </table>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwinikumar2003&theme=flag-india&hide_border=true">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwinikumar2003&theme=solarized-light&hide_border=true">
 
 </div>
 <h3 align="center">Leetcode Stats</h3>
