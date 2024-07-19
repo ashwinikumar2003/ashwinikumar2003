@@ -7,3 +7,7 @@ Welcome to my GitHub profile! I'm a Student who loves Coding.
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinikumar2003&layout=compact&theme=radical)
+
+
+## Visuals
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
