@@ -48,3 +48,8 @@
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/Ashwini_Kumar03?border=0&radius=20&theme=moltack"/>
 </p>
+
+<h3 align="center">CodeChef Stats</h3>
+<p align="center">
+  <img src="https://codechef-readme-stats.vercel.app/api/user?username=ashwinikumar03" alt="CodeChef Stats" />
+</p>
