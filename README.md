@@ -7,10 +7,6 @@
 <h1 align="center">👋 Hello, I'm Ashwini Kumar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=99ff00&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Data+Analyst;ML+Engineer;" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashwinikumar2003&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p><br>
 
