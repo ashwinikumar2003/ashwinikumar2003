@@ -40,7 +40,7 @@
   </table>
   <h3 align="center">Profile Details</h3>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwinikumar2003&theme=vue&hide_border=true">
-<h3 align="center">Leetcode Stats</h3>
+<!-- <h3 align="center">Leetcode Stats</h3>
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/Ashwini_Kumar03?border=0&radius=20&theme=gruvbox_light"/>
-</p>
+</p> -->
