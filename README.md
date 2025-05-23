@@ -13,8 +13,8 @@
 <h2 align="center">🚀 About Me</h2>
 <div background="#F5E1C0">
   <h3 align="center">Obsessed with solving problems 🧠</h3>
-<h3>Driven by curiosity 🔭</h3>
-<h3>Fueled by purpose 🚀</h3>
+<h3 align="center">Driven by curiosity 🔭</h3>
+<h3 align="center">Fueled by purpose 🚀</h3>
 </div>
 <br>
 
