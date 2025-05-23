@@ -12,7 +12,9 @@
 
 <h2 align="center">🚀 About Me</h2>
 <div background="#F5E1C0">
-  <h3 align="center">Obsessed with solving problems 🧠, driven by curiosity 🔭, and fueled by purpose 🚀.</h3>
+  <h3 align="center">Obsessed with solving problems 🧠</h3>
+<h3>Driven by curiosity 🔭</h3>
+<h3>Fueled by purpose 🚀</h3>
 </div>
 <br>
 
