@@ -12,11 +12,42 @@
 
 <h2 align="center">🚀 About Me</h2>
 <div background="#F5E1C0">
-  <h3 align="center">Obsessed with solving problems 🧠</h3>
-<h3 align="center">Driven by curiosity 🔭</h3>
-<h3 align="center">Fueled by purpose 🚀</h3>
+  <h3 align="left">Obsessed with solving problems 🧠</h3>
+<h3 align="left">Driven by curiosity 🔭</h3>
+<h3 align="left">Fueled by purpose 🚀</h3>
 </div>
 <br>
+
+<h3 align="center">Tech Stack</h3>
+
+### 🛠️ Languages & Core Web
+![Java](https://shields.io)
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
+### 🚀 Frameworks & Libraries
+![Spring Boot](https://shields.io)
+![React](https://shields.io)
+![Node.js](https://shields.io)
+
+### 🗄️ Databases & API Architecture
+![SQL](https://shields.io)
+![MySQL](https://shields.io)
+![PostgreSQL](https://shields.io)
+![REST API](https://shields.io)
+![GraphQL](https://shields.io)
+![Postman](https://shields.io)
+
+### 🐳 DevOps, Cloud & Tools
+![Docker](https://shields.io)
+![AWS](https://shields.io)
+![Jenkins](https://shields.io)
+![GitHub Actions](https://shields.io)
+![Git](https://shields.io)
+![Linux](https://shields.io)
 
 <h3 align="center">Git Stats</h3>
 
