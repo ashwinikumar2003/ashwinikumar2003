@@ -20,34 +20,35 @@
 
 <h3 align="center">Tech Stack</h3>
 
-### 🛠️ Languages & Core Web
-![Java](https://shields.io)
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+<h3>🛠️ Languages & Core Web</h3>
+<img src="https://shields.io" alt="Java" />
+<img src="https://shields.io" alt="Python" />
+<img src="https://shields.io" alt="JavaScript" />
+<img src="https://shields.io" alt="TypeScript" />
+<img src="https://shields.io" alt="HTML5" />
+<img src="https://shields.io" alt="CSS3" />
 
-### 🚀 Frameworks & Libraries
-![Spring Boot](https://shields.io)
-![React](https://shields.io)
-![Node.js](https://shields.io)
+<h3>🚀 Frameworks & Libraries</h3>
+<img src="https://shields.io" alt="Spring Boot" />
+<img src="https://shields.io" alt="React" />
+<img src="https://shields.io" alt="Node.js" />
 
-### 🗄️ Databases & API Architecture
-![SQL](https://shields.io)
-![MySQL](https://shields.io)
-![PostgreSQL](https://shields.io)
-![REST API](https://shields.io)
-![GraphQL](https://shields.io)
-![Postman](https://shields.io)
+<h3>🗄️ Databases & API Architecture</h3>
+<img src="https://shields.io" alt="SQL" />
+<img src="https://shields.io" alt="MySQL" />
+<img src="https://shields.io" alt="PostgreSQL" />
+<img src="https://shields.io" alt="REST API" />
+<img src="https://shields.io" alt="GraphQL" />
+<img src="https://shields.io" alt="Postman" />
 
-### 🐳 DevOps, Cloud & Tools
-![Docker](https://shields.io)
-![AWS](https://shields.io)
-![Jenkins](https://shields.io)
-![GitHub Actions](https://shields.io)
-![Git](https://shields.io)
-![Linux](https://shields.io)
+<h3>🐳 DevOps, Cloud & Tools</h3>
+<img src="https://shields.io" alt="Docker" />
+<img src="https://shields.io" alt="AWS" />
+<img src="https://shields.io" alt="Jenkins" />
+<img src="https://shields.io" alt="GitHub Actions" />
+<img src="https://shields.io" alt="Git" />
+<img src="https://shields.io" alt="Linux" />
+
 
 
 <h3 align="center">Git Stats</h3>
