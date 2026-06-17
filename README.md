@@ -6,10 +6,10 @@
 
 <h1 align="center">👋 Hello, I'm Ashwini Kumar</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashwinikumar2003&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
-</p><br>
-
+</p><br> -->
+<br>
 <h2 align="center">🚀 About Me</h2>
 <div background="#F5E1C0">
   <h3 align="left">Obsessed with solving problems 🧠</h3>
@@ -48,6 +48,7 @@
 ![GitHub Actions](https://shields.io)
 ![Git](https://shields.io)
 ![Linux](https://shields.io)
+
 
 <h3 align="center">Git Stats</h3>
 
