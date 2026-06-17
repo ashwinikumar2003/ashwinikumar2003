@@ -6,6 +6,11 @@
 
 <h1 align="center">👋 Hello, I'm Ashwini Kumar</h1>
 
+<div align="center">
+  <img src="https://demolab.com!+👋;I'm+a+Full+Stack+Developer;Welcome+to+my+GitHub!;" alt="Typing Effect" />
+</div>
+
+
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashwinikumar2003&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p><br> -->
